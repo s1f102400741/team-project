@@ -96,8 +96,8 @@ body {
   div.important {
     margin: 10px 10px 10px 10px;
     padding: 10px 10px 10px 10px;
-    border: solid 2px #ffff77;
-    background-color: #ffffaa;
+    border: solid 2px #eeeeee;
+    background-color: #eeeeee;
   }
   
   span.alert {
